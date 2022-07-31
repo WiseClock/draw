@@ -9,6 +9,9 @@
   "engines": {
     "node": ">=7.x.x"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "license": "Apache-2.0",
   "dependencies": {
     "async": "*",
